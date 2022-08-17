@@ -1,5 +1,5 @@
 # Efficient-Information-Retrieval-System-using-Stack-Overflow-data-main
- 
+![Search result for query ’code’, according to filter ’Popular’.](lit.png)
 > Programming Language Required: Python v3.7 (or above)
 
 ### Libraries Required:
@@ -63,3 +63,9 @@ It contains 1264216 Questions and the corresponding answers and tags on stackove
 Contact:
 If you have any issues to run the project, please mail at any one of the following email ids.
 {gajenders21@iitk.ac.in}, {kajals21@iitk.ac.in}, {pranshus21@iitk.ac.in}, {utkarshs21@iitk.ac.in}.
+
+### Dataset 
+        https://www.kaggle.com/datasets/stackoverflow/stacksample
+
+### Pre-processed files
+        https://drive.google.com/drive/folders/1yfo7E5Z2qKdpL-XbV3V7XHPIXjy3TsO1?usp=sharing
